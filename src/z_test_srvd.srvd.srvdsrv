@@ -1,0 +1,4 @@
+@EndUserText.label: 'testing'
+define service Z_test_SRVD {
+  expose I_Currency;
+}

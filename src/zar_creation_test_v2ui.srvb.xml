@@ -4,13 +4,13 @@
   <asx:values>
    <SRVB>
     <METADATA>
-     <NAME>Z_ABAP_GIT</NAME>
+     <NAME>ZAR_CREATION_TEST_V2UI</NAME>
      <TYPE>SRVB/SVB</TYPE>
      <DESCRIPTION>testing</DESCRIPTION>
      <LANGUAGE>EN</LANGUAGE>
      <LINKS>
       <item>
-       <HREF>/sap/bc/adt/businessservices/odatav2/Z_ABAP_GIT</HREF>
+       <HREF>/sap/bc/adt/businessservices/odatav2/ZAR_CREATION_TEST_V2UI</HREF>
        <REL>http://www.sap.com/categories/odatav2</REL>
        <TYPE>application/vnd.sap.adt.businessservices.odatav2.v2+xml</TYPE>
        <TITLE>ODATAV2</TITLE>
@@ -26,27 +26,26 @@
     </METADATA>
     <CONTENT>
      <BIND_TYPE_IMPL>
-      <NAME>Z_ABAP_GIT</NAME>
+      <NAME>ZAR_CREATION_TEST_V2UI</NAME>
      </BIND_TYPE_IMPL>
      <BIND_TYPE>ODATA</BIND_TYPE>
      <BIND_TYPE_VERSION>V2</BIND_TYPE_VERSION>
      <SERVICES>
       <item>
-       <SERVICE_NAME>Z_ABAP_GIT</SERVICE_NAME>
+       <SERVICE_NAME>ZAR_CREATION_TEST_V2UI</SERVICE_NAME>
        <SERVICE_CONTENT>
         <item>
          <SERVICE_VERSION>0001</SERVICE_VERSION>
          <SRVD_REF>
-          <URI>/sap/bc/adt/ddic/srvd/sources/ztest</URI>
+          <URI>/sap/bc/adt/ddic/srvd/sources/z_test_srvd</URI>
           <TYPE>SRVD/SRV</TYPE>
-          <NAME>ZTEST</NAME>
+          <NAME>Z_TEST_SRVD</NAME>
          </SRVD_REF>
         </item>
        </SERVICE_CONTENT>
       </item>
      </SERVICES>
     </CONTENT>
-    <PUBLISHED>true</PUBLISHED>
    </SRVB>
   </asx:values>
  </asx:abap>
