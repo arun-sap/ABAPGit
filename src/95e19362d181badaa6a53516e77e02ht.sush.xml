@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSH" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <HEAD>
+    <NAME>95E19362D181BADAA6A53516E77E02</NAME>
+    <TYPE>HT</TYPE>
+    <DISPLAY_NAME>R3TR G4BA Z_TEST_AR</DISPLAY_NAME>
+    <DEVCLASS>Z_ABAP_GIT_TEST</DEVCLASS>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+   </HEAD>
+  </asx:values>
+ </asx:abap>
+</abapGit>
